@@ -4,7 +4,6 @@ import tkinter.messagebox as messagebox
 import os
 import re
 
-# Name: Ali Nazari - student id: 610304180
 # Global variables
 grid = [[],[],[],[]]
 grid_size = 4
@@ -774,4 +773,5 @@ def main():
     root.mainloop()
 
 if __name__ == '__main__':
+
     main()
